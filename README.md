@@ -6,7 +6,7 @@ Simple and clear, Auer Notes is intentional, focusing on less, instead of more. 
 
 ## Why releasing it as open source?
 
-I wrote Auer Notes for myself, to [scratch my own itch](https://auernotes.com/why). Since I'm finding less and less time to finish it I decided to release it as open source in the hope that someone will finish version 1. The current beta is pretty much done, but there are few things missing.
+I wrote Auer Notes for myself, to [scratch my own itch](https://auernotes.com/why). Since I'm finding less and less time to finish it I decided to release it as open source in the hope that someone will help me finish version 1. The current beta is pretty much done, but there are a few things missing.
 
 ## What's missing?
 
